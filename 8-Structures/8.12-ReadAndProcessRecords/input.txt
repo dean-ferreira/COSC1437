@@ -1,0 +1,30 @@
+03-01-2022
+9:00AM
+Henry Smith
+Regular checking
+150.0
+03-01-2022
+10:30AM
+Jody Luu
+X-ray
+220.0
+03-01-2022
+11:00AM
+Jody Luu
+Cavity treatment
+250.0
+03-02-2022
+10:00PM
+David Grand
+Regular checking
+150.0
+03-02-2022
+11:00PM
+David Grand
+Teeth cleaning
+180.0
+03-03-2022
+11:00PM
+Henry Smith
+Crowning
+300.0

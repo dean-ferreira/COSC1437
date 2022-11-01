@@ -1,0 +1,4 @@
+id=1234567 name=Peter GPA=3.6
+id=1234568 name=Adina GPA=3.8
+id=1234569 name=Mike GPA=3.0
+id=1234560 name=Gina GPA=2.9
