@@ -1,0 +1,10 @@
+z a
+a z
+y e
+e y
+x i
+i x
+w o
+o w
+t u
+u t
